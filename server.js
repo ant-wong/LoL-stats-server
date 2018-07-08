@@ -1,7 +1,7 @@
 /* EXPRESS SERVER */
 const express = require('express')
 const cors = require('cors')
-const port = 6060 || process.env.PORT
+const port = process.env.PORT || 8080
 const app = express()
 const bodyParser = require('body-parser')
 
