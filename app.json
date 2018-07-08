@@ -1,0 +1,6 @@
+{
+  "name": "League of Legends stats. Server",
+  "description": "Express endpoints requesting data from Riot Games LoL API and responding back to React frontend",
+  "repository": "",
+  "keywords": ["node", "express", "REST"]
+}
